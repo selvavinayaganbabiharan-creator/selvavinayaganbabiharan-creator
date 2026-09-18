@@ -59,15 +59,6 @@ I'm an IT professional and cybersecurity researcher based in Jaffna, Sri Lanka, 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=selvavinayaganbabiharan-creator&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvavinayaganbabiharan-creator&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165">
-</p>
-
----
-
 ### 📫 Get in Touch
 
 - 📧 **Email:** selvavinayaganbabiharan@gmail.com
